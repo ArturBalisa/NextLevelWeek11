@@ -15,5 +15,5 @@ Esse projeto foi desenvolvido com HTML, CSS e JavaScript.
 
 ## Layout
 
-[Visualize o layout do projeto](https://www.figma.com/community/file/1187422022288947321). 
+[Visualize o layout do projeto](https://www.figma.com/community/file/1195327109778210238). 
 
